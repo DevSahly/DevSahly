@@ -14,7 +14,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![CodePen](https://img.shields.io/badge/codepen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white)
 
 ### 📊 My Stats
-![DevSahly's Stats](https://github-readme-github-stats.vercel.app/api?username=DevSahly&theme=dark)
+![My Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DevSahly&show_icons=true&theme=radical)
+
 
 
 ---
