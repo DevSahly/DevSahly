@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Shahd Asem (DevSahly) 👋
 
-<!--
-**DevSahly/DevSahly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ About Me
+- 🎓 Academic Learner & Humanities Enthusiast.
+- 💻 Passionate about **Web Development** & Frontend technologies.
+- 🎨 Interested in creating unique digital experiences.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** HTML5, CSS3.
+- **Tools:** CodePen, GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Let's Connect!
+- 📧 Email: [shahdasem408@gmail.com](mailto:shahdasem408@gmail.com)
+- 🚀 Check out my latest project: [My First Webpage](https://devsahly.github.io/My-first-webpage/)
+
+---
+### 🤝 Contact me for collaboration
+"I am [available for freelance projects](mailto:shahdasem408@gmail.com) and would love to hear from you!"
