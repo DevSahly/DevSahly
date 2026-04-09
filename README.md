@@ -11,7 +11,7 @@
 - 🌊 Current Project: [Alexandria - Harbor of the Mind](https://devsahly.github.io/My-first-webpage/)
 
 ### 🛠 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![CodePen](https://img.shields.io/badge/codepen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white)
 
 ### 📊 My Stats
 ![DevSahly's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSahly&show_icons=true&theme=radical)
@@ -19,11 +19,13 @@
 ---
 
 ### 🤝 Contact me for collaboration
-"I am [available for freelance projects](mailto:shahdasem408@gmail.com) and would love to hear from you!"
-
+- ✒️ **My Work on CodePen:** [Check Out My Projects](https://codepen.io/DevShahd/pen/ZYpMYbx)
 - 📧 **Email:** [shahdasem408@gmail.com](mailto:shahdasem408@gmail.com)
+
+"I am [available for freelance projects](mailto:shahdasem408@gmail.com) and would love to hear from you!"
 
 ---
 <p align="center">
   <i>"The harbor of the mind is always open for new ideas."</i>
 </p>
+
